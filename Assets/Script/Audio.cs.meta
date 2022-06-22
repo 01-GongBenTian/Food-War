@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 70c92badc5ec04a478f512b644e2010e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - menu_bgm: {fileID: 8300000, guid: 200b2ae6358cacb40badba50fda63ee3, type: 3}
+  - game_bgm: {fileID: 8300000, guid: b099d3f4f9494f04bb4eb1707cd3cb47, type: 3}
+  - button_press: {fileID: 8300000, guid: 75317fdbfac095e40937a182523b24df, type: 3}
+  - attack: {fileID: 8300000, guid: 3afad53fdca154c439612d414e4964d1, type: 3}
+  - game_lose: {fileID: 8300000, guid: 5688ff079836bb04d908e871f7624114, type: 3}
+  - game_win: {fileID: 8300000, guid: 5d70cce2821a7824ba5b67334542fa10, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

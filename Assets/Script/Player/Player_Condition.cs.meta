@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5b6164a418449146a35ec0fe99447e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - red_tomato: {fileID: 2100000, guid: e55d901d99d225d4a82f039590127e73, type: 2}
+  - white_cream: {fileID: 2100000, guid: f7897b512b15928468ed7405b18777ed, type: 2}
+  - green_basil: {fileID: 2100000, guid: 6569fc0bd8f431d4cb3dd5c3a1672012, type: 2}
+  - normal_colour: {fileID: 2100000, guid: e7f557ec32e4ebb418db10a3af352a14, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
